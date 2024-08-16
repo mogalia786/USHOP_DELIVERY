@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "941730506229",
+    "project_id": "thuma-mina-9d738",
+    "storage_bucket": "thuma-mina-9d738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941730506229:android:35c958a6ed334e20c72cbc",
+        "android_client_info": {
+          "package_name": "com.example.admin_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDvLoY1FN37hZw4Ww96WXFmXJEyj86sC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941730506229:android:ba10a68e051c1060c72cbc",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDvLoY1FN37hZw4Ww96WXFmXJEyj86sC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941730506229:android:b5237e032a7cda5bc72cbc",
+        "android_client_info": {
+          "package_name": "com.example.vendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDvLoY1FN37hZw4Ww96WXFmXJEyj86sC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
